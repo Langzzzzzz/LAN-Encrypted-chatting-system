@@ -1,11 +1,9 @@
-/*
+
     Student Name: Zhenqing Lang
     Student Number: 
 
     Student Name: Yiming He
     Student Number: 
-
-*/
 
 Course Number: COMP2401B
 
