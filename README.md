@@ -36,7 +36,7 @@ Student Name: Yiming He
         README.txt
 
 ### Operating System Tested:
-                Linux(COMP24xx-F18)
+        Linux(COMP24xx-F18)
 
 ### Sample Run
 ![alt text](sampleRun.png)
