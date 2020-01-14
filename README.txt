@@ -1,13 +1,15 @@
 /*
     Student Name: Zhenqing Lang
-    Student Number: 101087276
+    Student Number: 
 
     Student Name: Yiming He
-    Student Number: 101090748
+    Student Number: 
 
 */
 
 Course Number: COMP2401B
+
+Note: Since a4-util.o was compiled in linux, thes program can only run on linux.
 
 Purpose: 
         Timmy and Harold has been locking up in seperate cells,
