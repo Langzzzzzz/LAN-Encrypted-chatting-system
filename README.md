@@ -1,9 +1,7 @@
 
 Student Name: Zhenqing Lang
-Student Number: 
 
 Student Name: Yiming He
-Student Number: 
 
 ### Compile Command:
     Just type " make" in terminal,
