@@ -1,9 +1,9 @@
 
-    Student Name: Zhenqing Lang
-    Student Number: 
+Student Name: Zhenqing Lang
+Student Number: 
 
-    Student Name: Yiming He
-    Student Number: 
+Student Name: Yiming He
+Student Number: 
 
 ### Compile Command:
     Just type " make" in terminal,
@@ -27,20 +27,20 @@
           ont minutes for the OS to release the port.
           
       
-Purpose: 
+### Purpose: 
         Timmy and Harold has been locking up in seperate cells,
         they want to send secret message between each other.
 
-Files:
+### Files:
         a4.c
         a4-util.o
         Makefile
         README.txt
 
-Operating System Tested:
+### Operating System Tested:
                 Linux(COMP24xx-F18)
 
-##Here is a sampel run
+### Sample Run
 ![alt text](sampleRun.png)
 
 
