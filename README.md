@@ -5,28 +5,12 @@
     Student Name: Yiming He
     Student Number: 
 
-Course Number: COMP2401B
-
-Note: Since a4-util.o was compiled in linux, thes program can only run on linux.
-
-Purpose: 
-        Timmy and Harold has been locking up in seperate cells,
-        they want to send secret message between each other.
-
-Files:
-        a4.c
-        a4-util.o
-        Makefile
-        README.txt
-
-Operating System Tested:
-                Linux(COMP24xx-F18)
-
-Compile Command:
+### Compile Command:
     Just type " make" in terminal,
     Make sure you are under "a4" folder
+    Note: Since a4-util.o was compiled in linux, thes program can only run on linux.
 
-Launching and Operating Instruction
+### Launching and Operating Instruction
 
      1. Make sure you are uner "a4" folder.
      2. type "make" in terminal.
@@ -41,6 +25,20 @@ Launching and Operating Instruction
         - One thing to notice, if you want to run program again, 
           you need to wait for one minutes, because it takes about
           ont minutes for the OS to release the port.
+          
+      
+Purpose: 
+        Timmy and Harold has been locking up in seperate cells,
+        they want to send secret message between each other.
+
+Files:
+        a4.c
+        a4-util.o
+        Makefile
+        README.txt
+
+Operating System Tested:
+                Linux(COMP24xx-F18)
 
 ##Here is a sampel run
 ![alt text](sampleRun.png)
